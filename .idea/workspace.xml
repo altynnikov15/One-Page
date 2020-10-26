@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="84fc8089-3875-4f81-ba65-61224b989f68" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1jPvlNJ6Z8Trdl7JL4wetfwqgxW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../Ruby27-x64/bin/scss.bat" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="84fc8089-3875-4f81-ba65-61224b989f68" name="Default Changelist" comment="" />
+      <created>1603718691992</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603718691992</updated>
+      <workItem from="1603718693349" duration="667000" />
+      <workItem from="1603722086942" duration="1775000" />
+      <workItem from="1603723906495" duration="1795000" />
+      <workItem from="1603725738181" duration="4351000" />
+      <workItem from="1603734001253" duration="1791000" />
+      <workItem from="1603736206601" duration="1827000" />
+      <workItem from="1603738073329" duration="1812000" />
+      <workItem from="1603740426840" duration="1644000" />
+      <workItem from="1603742838543" duration="1786000" />
+      <workItem from="1603744800107" duration="420000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="352" y="142" key="EditFileWatcherDialog" timestamp="1603718759313">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="352" y="142" key="EditFileWatcherDialog/0.0.1366.728@0.0.1366.728" timestamp="1603718759313" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1603718758187">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1603718758187" />
+  </component>
+</project>
