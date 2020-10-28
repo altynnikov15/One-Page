@@ -105,12 +105,21 @@ h1 {
   padding-bottom: 100px; }
 
 .bg_2 {
+  padding-left: 100px;
   background-color: #f8f9f9; }
+  @media only screen and (max-width: 767px) {
+    .bg_2 {
+      padding-left: 15px; } }
   .bg_2 h2 {
     font-family: 'Montserrat', sans-serif;
     font-weight: 600;
     font-size: 30px;
     padding-bottom: 40px; }
+  .bg_2 h3 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    font-size: 12px;
+    text-transform: uppercase; }
   .bg_2 .progress {
     height: 5px;
     margin-bottom: 40px;
@@ -134,5 +143,70 @@ h1 {
       -webkit-transition: width .6s ease;
       -o-transition: width .6s ease;
       transition: width .6s ease; }
+
+.bg_3 {
+  background-color: #10c9c3; }
+  .bg_3 .pic {
+    padding-top: 100px;
+    padding-bottom: 100px; }
+    @media only screen and (max-width: 767px) {
+      .bg_3 .pic {
+        padding-top: 50px;
+        padding-bottom: 50px; } }
+    .bg_3 .pic span {
+      font-family: 'Montserrat', sans-serif;
+      font-weight: 700;
+      font-size: 18px;
+      color: white; }
+    .bg_3 .pic h4 {
+      color: white;
+      text-transform: uppercase;
+      font-size: 12px;
+      font-family: 'Montserrat', sans-serif;
+      font-weight: 700; }
+
+.pic_work {
+  padding: 0; }
+  @media only screen and (max-width: 767px) {
+    .pic_work {
+      padding-left: 15px;
+      padding-right: 15px; } }
+  .pic_work img {
+    width: 100%; }
+    .pic_work img:hover {
+      background-color: black; }
+
+.panel-body {
+  padding: 1px; }
+
+.btn_acc {
+  display: inline-block;
+  font-weight: 400;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: middle;
+  touch-action: manipulation;
+  cursor: pointer;
+  background-image: none;
+  line-height: 1.42857143;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  margin-bottom: 200px;
+  border-radius: 0;
+  background-color: #f5f5f5;
+  padding-top: 23px;
+  padding-bottom: 20px;
+  width: 100%;
+  text-transform: uppercase;
+  font-size: 12px;
+  text-decoration: none;
+  color: #9c9c9c;
+  border: none;
+  transition: 0.7s; }
+  .btn_acc:hover {
+    color: #838383;
+    text-decoration: none; }
 
 /*# sourceMappingURL=style.css.map */

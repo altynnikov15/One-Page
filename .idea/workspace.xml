@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="84fc8089-3875-4f81-ba65-61224b989f68" name="Default Changelist" comment="" />
+    <list default="true" id="84fc8089-3875-4f81-ba65-61224b989f68" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/.sass-cache/0f2cbce4d8d8a9840bc6742cedb8ea5011125a16/style.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/css/.sass-cache/0f2cbce4d8d8a9840bc6742cedb8ea5011125a16/style.scssc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/01_One-Page-(1)_01.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/01_One-Page-(1)_01.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/01_One-Page-(1)_02.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/01_One-Page-(1)_02.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/01_One-Page-(1)_04.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/01_One-Page-(1)_04.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/01_One-Page-(1)_05.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/01_One-Page-(1)_05.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,7 +40,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../Ruby27-x64/bin/scss.bat" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -49,6 +60,13 @@
       <workItem from="1603740426840" duration="1644000" />
       <workItem from="1603742838543" duration="1786000" />
       <workItem from="1603744800107" duration="420000" />
+      <workItem from="1603835819866" duration="13000" />
+      <workItem from="1603837425585" duration="193000" />
+      <workItem from="1603837678268" duration="1851000" />
+      <workItem from="1603839679795" duration="1925000" />
+      <workItem from="1603841665507" duration="2106000" />
+      <workItem from="1603843808316" duration="1788000" />
+      <workItem from="1603845654965" duration="902000" />
     </task>
     <servers />
   </component>
